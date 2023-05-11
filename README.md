@@ -6,9 +6,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-lima-furtado/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@luizfelipelimafurtado)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizfurtado12&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfurtado12&layout=compact&theme=tokyionight)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+    <a href="https://github.com/luizfurtado12">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfurtado12&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfurtado12&layout=compact&langs_count=7&theme=transparent"/>
+</div>
 
 ##
 #### Tecnologias:
